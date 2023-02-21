@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:quizu/utilities/router.dart';
+import 'package:quizu/utilities/routes.dart';
 
 void main() {
   runApp(const MyApp());
